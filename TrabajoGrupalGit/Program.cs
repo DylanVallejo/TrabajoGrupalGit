@@ -10,9 +10,7 @@ namespace TrabajoGrupalGit
     {
         static void Main(string[] args)
         {
-
-
-
+            string saludo = "hola";
         }
     }
 }
