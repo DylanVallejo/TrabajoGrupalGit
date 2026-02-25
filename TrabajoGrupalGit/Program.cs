@@ -10,9 +10,7 @@ namespace TrabajoGrupalGit
     {
         static void Main(string[] args)
         {
-
-
-
+            //este es un proeycto de prueba
         }
     }
 }
