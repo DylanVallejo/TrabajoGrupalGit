@@ -11,6 +11,10 @@ namespace TrabajoGrupalGit
         static void Main(string[] args)
         {
             string saludo = "hola";
+
+            // este es un ejemplo de una nueva aplicacion en git
+            //test de prueba 3
+
         }
     }
 }

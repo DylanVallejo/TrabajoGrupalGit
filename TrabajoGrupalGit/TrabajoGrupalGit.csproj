@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2F952EF-67B3-4484-8597-0DBD05C6DEA5}</ProjectGuid>
+    <ProjectGuid>{2E8A99FD-D52D-5971-8C63-C071CF2441F2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>TrabajoGrupalGit</RootNamespace>
     <AssemblyName>TrabajoGrupalGit</AssemblyName>
